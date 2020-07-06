@@ -1,0 +1,41 @@
+Stripe
+
+Overview and origin:
+
+John and Patrick Collison founded Stripe in 2010. 
+The idea started when the brothers debated why it was so diffcult to pay and accept payments over the web and sought to make this transaction easier.
+They earned their first investments through seed money given by Y Combinator in June 2010. Afterwards in May 2011,3 ventre capitalists (Peter Thiel, Sequoia Capital and Andreessen Horiwitz invested $2 million. Ater several more investments through a Series A and Series B investments, Stripe was avaluated to be over $9 Billion in 2016 and $22.5 billion by 2019. Over the course of several rounds of funding, Stripe received over $1.5 Billion in funding.
+
+
+Business Activities:
+
+Stripes mission on their website is to "increase the GDP of the internet" by building economic infrastructure online for companies of various sizes. Stripe is mainly a B2B business, helping start-ups and public companies alike to accept payments and manage businesses online. The digital payments market size is growing year over year from an estimated market of $38 billion in 2018 to $87 Billion by 2023. 
+Stripe's main competitors in digital payments mainly consist of Paypal and Square. While all 3 offer huge assortments of commerce tools, with API's and integrations, Stripe generally focuses more on mobile and eCommerce. While Square offers more robust POS options, Stripe is much more developer-friendly with the online payment style customizations such as billing, reporting and platform payments, so much so that it allows for seamless transactions over websites that may be unknown to most (Amazon, Target, Lyft, etc). Outside of payment processing of cards, Stripe also allows a host of localized payments favored in different parts of the world, even allowin Apple Pay and other mobile wallets.
+Stripe's 2 main languages used are Ruby and JavaScript. Ruby powers most of the back-end services, dashboards and API's while JavaSript runs others. Outside of Ruby and JavScript, Scala and Go are infreqently used and every now, Python even more sparcely. The finance team also uses Abacus, Baremetrics and Mastercard API.
+
+
+Landscape:
+Stripe belongs in the Payments/Billing Fintech domain, dabbling in Lending with Stripe Capital, and Enterprise solution by offereing, billing, payment transfers, fraud protection, and advanced reporting. 
+With the advent of online payments, payments and analysis will only getting faster and more robust. Some big trends include: 
+	- Gen Z generation making up over 40% of all US consumers
+	- UX and customer experience becoming a prime competitive differentiator (companies now have to get customer attention right away and get it right the first time) with consumers interested in digital payments advisory and expense management services
+	- mobile payments becoming more robust and prevalent thanks to API's and online banking with 64% of consumers planning to use a mobile wallet in 2020 (up from 46 percent in 2019).
+	- moving away from banks monopolizing sales data as more and more mobile and online sales happen, more and more people are moving to allow third parties to view online banking accounts in return for account management services
+
+Results:
+As a result of Stripe, over 84% of US users have bought something from Stripe-powered business, with over 1 million business using Stripe to prcess payments. On average, organizations attributed a revenue increase of almost 7% to the Stripe platform.
+Stripe has expanded to over 31 countries and multiple international markets, signing deals with well known companies such as Amazon, Facebook, Lyft, Doordash, Salesforce, Indiegogog, and others. 
+Due to Stripe being an private company, the exact size and market is unknown; however, being the 3rd most valuable start-up in history ($35B evalauation), Stripe is often placed within the top 3 online payment processing companies along with the likes of Square, Paypal, Amazon and Google Pay.
+
+Recommendations:
+Stripe seems to have entrenched itself as a developer friendly online payment processor, allowing seemless integration into company online platforms and forgoing a robust POS system. Stripe seems to dabble in almost everything from subscriptions, to mobile marketplace creation, to machine learning fraud detection, to international business and US market incorporation.
+Stripe has quickly become the go-to online payments platform for internet businesses and start-ups. Stripe, however, is positioned to benefit as the online market continues to expand with only 8% of business today is conducted online. Stripe may want to look to improve their POS system to gain traction in a more traditional market. These technologies would allow Stripe to gain marketshare in the other 92% of the market.
+Another area Stripe could expand is creating an ecommerce sales marketplace strategy for business that may be able to sign-up with their systems. With so many people doing ecommerce through the likes of Amazon and Ebay, Stripe may stand to gain as an ecommerce business advisor and platform for small individual online business.
+
+Citations:
+https://www.merchantmaverick.com/stripe-vs-square/#:~:text=Square%20is%20an%20all%2Din,marketplaces%20and%20subscription%2Dbased%20businesses.
+https://en.wikipedia.org/wiki/Stripe_(company)
+https://www.accenture.com/us-en/insight-banking-future-payments-ten-trends
+https://www.forbes.com/sites/jeffkauflin/2019/02/04/top-payment-fintech-companies/
+https://stripe.com/about
+https://www.purchasecommerce.com/blog/payment-processing-companies
